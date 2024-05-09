@@ -1,0 +1,7 @@
+{
+    "project_slug": "global",
+    "environment": "dev",
+    "location": "weu",
+    "adf": "adf_{{cookiecutter.project_slug}}_{{cookiecutter.location}}_{{cookiecutter.environment}}_01",
+    "dbt": "dbt_{{cookiecutter.project_slug}}"
+}
